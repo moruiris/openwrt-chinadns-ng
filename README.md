@@ -11,7 +11,7 @@
 cd openwrt-sdk
 
 # 获取源码
-git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
+git clone https://github.com/moruiris/openwrt-chinadns-ng.git package/chinadns-ng
 
 # 选中 Network -> chinadns-ng
 make menuconfig
